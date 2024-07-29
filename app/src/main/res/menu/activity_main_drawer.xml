@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_second"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Second Fragment" />
+    <!-- Add more items if needed -->
+</menu>
